@@ -342,9 +342,7 @@ Hardware AI Acceleration • Neural Network Inference • CNN Acceleration • R
 
 👨‍💻 Project Team
 Gurukiran B H
-Krishna Saini
-Jaya Sri Jawahar Sripathy
-S. Praveen
+
 ⭐ Highlights
 ⚡ 2× CNN speedup
 ⚡ 2× RNN speedup
@@ -363,6 +361,3 @@ This project is developed for academic and research purposes.
 
 
 
-This version is **much more GitHub-friendly visually** while still keeping the important technical keywords. The architecture, software stack, CNN/RNN flow, four hardware configurations, and measured results are based on your submitted project material. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
-
-**One important point:** I would use **“2× speedup”**, not “50% speedup.” Your paper specifically reports a 50% reduction in cycles and a **2.0× speedup**. :contentReference[oaicite:6]{index=6}
